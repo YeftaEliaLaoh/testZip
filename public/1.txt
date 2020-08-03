@@ -1,0 +1,1 @@
+java -jar bundletool-all-1.0.0.jar build-apks --overwrite --mode=universal --bundle=/home/yefta/Project/altamides/altamides-mobiletrax/app/build/outputs/bundle/debug/app-debug.aab --output=/home/yefta/Documents/app.apks
